@@ -41,11 +41,11 @@ I bought this unit from **[z15pro860.com](https://www.z15pro860.com/)** and wrot
 
 ## Buy / unit notes (transparency)
 
-- Store I used: **[Z15 Pro 860K storefront](https://www.z15pro860.com/)**
-- Listed as original Bitmain Z15 Pro **860K**, crypto checkout (BTC / USDC / USDT)
-- Shipping and warranty follow the seller’s terms + Bitmain manufacturer warranty (commonly ~180 days from delivery — confirm with seller)
+- Seller I used: **[z15pro860.com](https://www.z15pro860.com/)**
+- Ordered as an original Bitmain Z15 Pro **860K**; paid in crypto
+- Shipping / warranty = whatever that seller lists, plus Bitmain manufacturer warranty when it applies (often ~180 days from delivery — confirm with them)
 
-This repo is **not affiliated with Bitmain**. Links are for reference only.
+This repo is **not affiliated with Bitmain or any retailer**. Just personal notes from running the box.
 
 ---
 
