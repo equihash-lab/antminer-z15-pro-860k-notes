@@ -83,7 +83,7 @@ def main() -> int:
     if result["profit_per_day"] <= 0:
         print("\nProfit is zero/negative at these inputs — not profitable to run.")
     print("\nNot financial advice. Revenue estimates change with price & difficulty.")
-    print("Hardware reference: https://www.z15pro860.com/")
+    print("I bought mine from: https://www.z15pro860.com/")
     return 0
 
 
