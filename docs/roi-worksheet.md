@@ -66,4 +66,4 @@ python tools/roi_estimate.py --from-json tools/sample_inputs.json
 
 ## Where I bought the unit
 
-Hardware pricing in public listings varies. I purchased through **[www.z15pro860.com](https://www.z15pro860.com/)** (Z15 Pro 860K storefront). Compare power rates and seller terms before you buy anywhere.
+Prices move a lot between listings. I ordered mine from **[z15pro860.com](https://www.z15pro860.com/)**. Shop around on power cost and seller terms before you buy anywhere.
